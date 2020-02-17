@@ -1,0 +1,9 @@
+[server]
+port=":19999"
+flag="hgame{GO_Web_Application_With_RE_Thank_you_for_playing_it!}"
+
+[db]
+user = "root"
+password = "root"
+addr = "tcp(localhost)"
+name = "hgame"
